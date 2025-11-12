@@ -1,5 +1,3 @@
--- Answer to Exercise 27
-
 SELECT 
     p.product_name AS product_name,
     SUM(o.unit) AS unit
